@@ -1,3 +1,25 @@
-h1 {
-    color: red;
+.block {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    border : 1px solid black;
+    text-align: center;
+}
+
+.block-1 {
+    background-color:aliceblue;
+}
+
+.block-2 {
+    background-color:beige;
+}
+
+.block-3 {
+    background-color: antiquewhite;
+}
+
+img {
+    border-radius: 25px;
+    border : 2px solid black;
 }
